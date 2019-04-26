@@ -88,7 +88,7 @@ body{
     height: 450px;
 }
 .main .background{
-    background-image: url(../Images/residentevil2-01.jpg);
+    background-image: url(residentevil2-01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
